@@ -73,11 +73,3 @@ I used AI to speed up scaffolding and ensure tests-first examples were present. 
 - Ensure your README shows the "My AI Usage" section and commit history contains co-author trailers where AI helped.
 
 ---
-
-## Next steps I can help with
-- Complete walkthrough for pushing to GitHub with proper commit messages (I will provide exact commands).
-- Expand frontend features (search, admin CRUD, purchase UI).
-- Add CI workflow (GitHub Actions) to run tests on PRs.
-- Create deployment instructions.
-
----
